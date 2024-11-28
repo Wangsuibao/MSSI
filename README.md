@@ -22,7 +22,7 @@ E-mail: [191981070190@nepu.edu.cn](mailto:191981070190@nepu.edu.cn;);
 
 ### Quick Start
 
-1、Download the M2 dataset from the provided link.
+1、Download the M2 dataset from the provided link. （We convert the original SGY-format M2 dataset into NPY format.）
 
 ​		M2: https://doi.org/10.5281/zenodo.14233581
 
